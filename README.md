@@ -12,7 +12,7 @@ No LoRA is perfect, and sometimes you want to surgically keep one part of its ef
 I'm an audio engineer, so my brain naturally wanted something that feels like a familiar tool: a graphic equalizer.
 That is why the node has a custom skin that looks more like studio hardware than a default ComfyUI box.
 
-![Kira LoRA EQ UI](media/kira_ui.png)
+<img src="media/kira_ui.png" alt="Kira LoRA EQ UI" width="890">
 
 ## What it actually does
 
@@ -65,5 +65,6 @@ Things to keep in mind:
 I do not have the capacity right now to actively maintain or support this project. If you find bugs, extend it to other architectures, port the idea somewhere else or redesign the UI, that is awesome. A mention somewhere would be appreciated, but feel free to just run with the concept.
 
 Godspeed, and have fun EQ’ing your LoRAs.
+
 
 

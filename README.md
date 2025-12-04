@@ -34,7 +34,7 @@ With Z-Image
 ![Before / After example](media/kira_example_01.png)
 
 With Qwen Edit 2509
-![Before / After example](media/kira_example_01.png)
+![Before / After example](media/kira_example_02.png)
 
 ## Installation
 
@@ -65,4 +65,5 @@ Things to keep in mind:
 I do not have the capacity right now to actively maintain or support this project. If you find bugs, extend it to other architectures, port the idea somewhere else or redesign the UI, that is awesome. A mention somewhere would be appreciated, but feel free to just run with the concept.
 
 Godspeed, and have fun EQ’ing your LoRAs.
+
 
